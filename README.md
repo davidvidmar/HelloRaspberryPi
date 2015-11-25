@@ -7,5 +7,8 @@ The app will:
 * periodically blink LED
 * allow user to turn blinking on/off with physical button or through app
 
-Wiring:
+## Wiring
+
+Use this simple circuit with the sample:
+
 ![Wiring](https://raw.githubusercontent.com/davidvidmar/HelloRaspberryPi/master/Pics/HelloRaspberryPi.png "Wiring")
